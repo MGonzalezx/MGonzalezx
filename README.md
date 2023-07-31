@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ionic, Angular**
 
-- Technology lover 🤖. 
+- Technology and games lover 🤖. 
 
 - Always ready and unafraid to learn something new 😀.
 
