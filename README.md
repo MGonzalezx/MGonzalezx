@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Martin Gonzalez👋</h1>
-<h3 align="center">Student in programming technique - UTN FRA -</h3>
+<h3 align="center">Student in Technical Degree in Programming - UTN FRA -</h3>
 
 
 
