@@ -3,8 +3,6 @@
 
 
 
-- 🌱 I’m currently learning **Ionic, Angular**
-
 - Technology and games lover 🤖. 
 
 - Always ready and unafraid to learn something new 😀.
